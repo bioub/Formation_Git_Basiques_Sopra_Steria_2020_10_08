@@ -1,4 +1,4 @@
-# Formation Git Sopra Steria
+# Formation Git Sopra Steria 08/10/2020
 
 Liste de liens et de commandes vues pendant la formation
 
