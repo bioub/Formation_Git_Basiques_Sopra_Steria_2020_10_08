@@ -4,5 +4,5 @@ Liste de liens et de commandes vues pendant la formation
 
 ## Liens vus pendant la formation
 
-* [https://help.github.com/en/articles/associating-text-editors-with-git](Associer un éditeur)
-* [https://git-scm.com](Site officiel)
+* [Associer un éditeur](https://help.github.com/en/articles/associating-text-editors-with-git)
+* [Site officiel](https://git-scm.com)
